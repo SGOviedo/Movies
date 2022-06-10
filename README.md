@@ -1,4 +1,5 @@
 # Movies
 ## Integrantes
 
--Oviedo Santiago Gabriel, 20 años, Vedia(Provincia de Buenos Aires)
+-Oviedo Santiago Gabriel, 20 años, Vedia(Buenos Aires)
+-Mundanu Mauro, 22 años, Lanús
